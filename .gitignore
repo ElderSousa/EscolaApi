@@ -1,0 +1,50 @@
+# Arquivos Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.pdb
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+.env/
+
+# Configurações de IDEs e editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de build
+build/
+dist/
+*.egg-info/
+
+# Arquivos de logs
+*.log
+*.pot
+*.py[cod]
+
+# Dados temporários
+.DS_Store
+*.swp
+*.bak
+*.tmp
+*.old
+*.orig
+*.coverage
+.coverage.*
+.cache
+Thumbs.db
+
+# Arquivos do Django
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Configurações e variáveis de ambiente
+.env
