@@ -6,6 +6,7 @@ __pycache__/
 *.so
 *.pdb
 
+
 # Ambiente virtual
 venv/
 env/
